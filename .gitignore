@@ -1,0 +1,38 @@
+# OS·편집기
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# 비밀 정보
+.env
+*.env
+*_key.txt
+*key*.txt
+*.pem
+secrets*
+
+# 대용량·원본 데이터
+*.zip
+*.tar
+*.pt
+*.pth
+*.ckpt
+data/video/
+data/frames/
+data/raw/
+
+# 개인정보·서식
+*동의서*
+*서약서*
+*신청서*
+*서명*
+*.hwp
+*.hwpx
